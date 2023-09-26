@@ -10,7 +10,7 @@
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 14.0,
-    "skinBranch": "2.9.2",
+    "skinBranch": "dark",
     "skinRepo": "https://github.com/qhool/BowlerStudioImageAssets.git"
   }
 }
